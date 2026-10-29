@@ -1,0 +1,14 @@
+{
+  "day_index": 1,
+  "load_date": "2026-10-29",
+  "seed": 42,
+  "format": "csv",
+  "rows": {
+    "vehicles": 65,
+    "products": 6,
+    "customers": 3,
+    "shipments": 5000,
+    "shipment_lines": 27522
+  },
+  "generated_at": "2026-10-28T13:29:43.678627+00:00"
+}
